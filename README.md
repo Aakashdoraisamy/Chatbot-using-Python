@@ -36,11 +36,11 @@ Before you can run the chatbot code, you'll need to install the following depend
 
 ## Installation
 1.Clone or download this repository to your local machine.
- git clone https://github.com/Aakashdoraisamy/Aakash
+      git clone https://github.com/Aakashdoraisamy/Aakash
 2.Navigate to the project directory.
-  cd chatbot-python
+       cd chatbot-python
 3. Create a virtual environment (recommended).
-   python -m venv venv
+       python -m venv venv
 4.Activate the virtual environment.
    •	On Windows:
   venv\Scripts\activate
