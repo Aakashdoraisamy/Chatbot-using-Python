@@ -10,7 +10,7 @@ Reference:Kaggle.com
 
 # How to run:
    Install idle softwares in desktop
-   # install with pip install numpy
+   # Pip install numpy
            1.Download idle software for desktop
            2.install it
            3.open it 
