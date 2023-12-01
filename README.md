@@ -15,7 +15,7 @@ Reference:Kaggle.com
            2.install it
            3.open it 
 	   4.install python packages like numpy
-           5.type and execute
+           5.type your code and execute
 
 # this project is designed to create a chatbot by using python
 
