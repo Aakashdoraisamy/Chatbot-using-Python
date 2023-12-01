@@ -14,7 +14,7 @@ Reference:Kaggle.com
            1.Download idle software for desktop
            2.install it
            3.open it 
-	   4.install python packages like numpy
+	    4.install python packages like numpy
            5.type your code and execute
 
 # this project is designed to create a chatbot by using python
