@@ -10,11 +10,12 @@ Reference:Kaggle.com
 
 # How to run:
    Install idle softwares in desktop
-   # Pip install numpy
+   # Pip install:
            1.Download idle software for desktop
            2.install it
            3.open it 
-           4.type and execute
+	   4.install python packages like numpy
+           5.type and execute
 
 # this project is designed to create a chatbot by using python
 
@@ -111,4 +112,3 @@ Here's a brief description of how to create a chatbot using Python:
 	    Regularly update and maintain your chatbot to ensure it stays relevant and functional.
 Please note that the level of complexity and the choice of libraries and tools may vary depending on your specific chatbot project. Additionally, adhering to best practices for user data privacy and safety is crucial when creating a chatbot.
 Feel free to refer to the provided README for specific instructions on running a Python-based chatbot.
-
