@@ -1,21 +1,15 @@
-# Aakash
 # Create A Chatbot using python
 # Ai Phase wise Project Submission
 
 Data Source:(https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot)
 Reference:Kaggle.com
 
-# how to run code any dependency:
-    Create A Chatbot using Python
-
 # How to run:
-   Install idle softwares in desktop
+   Install idle softwares like vscode, pycharm
    # Pip install:
-           1.Download idle software for desktop
-           2.install it
-           3.open it 
-	    4.install python packages like numpy
-           5.type your code and execute
+           1.instal required packages             2.open it
+	   3.reqiured packages like,numpy
+           4.type your code and execute
 
 # this project is designed to create a chatbot by using python
 
