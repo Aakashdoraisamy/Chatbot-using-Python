@@ -7,9 +7,8 @@ Reference:Kaggle.com
 # How to run:
    Install idle softwares like vscode, pycharm
    # Pip install:
-           1.instal required packages             2.open it
-	   3.reqiured packages like,numpy
-           4.type your code and execute
+           1.instal required packages  
+           2.type your code and execute
 
 # this project is designed to create a chatbot by using python
 
